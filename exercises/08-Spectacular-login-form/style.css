@@ -1,0 +1,13 @@
+body {
+	background: #101561;
+	text-align: center;
+}
+.login {
+	margin: auto;
+}
+h1 {
+	color: white;
+}
+form {
+	display: inline-grid;
+}
